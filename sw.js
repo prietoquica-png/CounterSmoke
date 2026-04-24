@@ -1,9 +1,9 @@
 const CACHE_NAME = 'cigarros-v1';
 
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  './',
+  './index.html',
+  './manifest.json'
 ];
 
 // instalar
